@@ -28,3 +28,33 @@ D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos2\ModuloBancos\Llamada\L
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos2\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.csproj.CopyComplete
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos2\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.exe
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos2\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\Llamada.exe.config
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\Llamada.exe
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\Llamada.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\Vista.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaVista.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\Bitacora.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaControlador.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\Dapper.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaModelo.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\Vista.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaVista.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\Bitacora.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaControlador.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\bin\Debug\CapaModelo.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.Properties.Resources.resources
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.csproj.CopyComplete
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.exe
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\Llamada\Llamada\obj\Debug\Llamada.pdb

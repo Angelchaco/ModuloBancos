@@ -43,9 +43,13 @@ namespace Vista
             this.consultarCuentaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.transferenciaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.disponibilidadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.txtUsuario = new System.Windows.Forms.TextBox();
             this.estadoDeCuentaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.divisaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.txtUsuario = new System.Windows.Forms.TextBox();
+            this.nominasDeChequesGeneradosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.deChequesGeneradosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.movimientosRealizadosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.chequesEmitidosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -55,7 +59,9 @@ namespace Vista
             this.inicioToolStripMenuItem,
             this.consultarCuentaToolStripMenuItem,
             this.transferenciaToolStripMenuItem,
-            this.disponibilidadToolStripMenuItem});
+            this.disponibilidadToolStripMenuItem,
+            this.nominasDeChequesGeneradosToolStripMenuItem,
+            this.movimientosRealizadosToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
@@ -76,7 +82,7 @@ namespace Vista
             // ayudaGeneralToolStripMenuItem
             // 
             this.ayudaGeneralToolStripMenuItem.Name = "ayudaGeneralToolStripMenuItem";
-            this.ayudaGeneralToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ayudaGeneralToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
             this.ayudaGeneralToolStripMenuItem.Text = "Ayuda General";
             // 
             // herraminetasToolStripMenuItem
@@ -85,7 +91,7 @@ namespace Vista
             this.consultasInteligentesToolStripMenuItem,
             this.seguridadToolStripMenuItem});
             this.herraminetasToolStripMenuItem.Name = "herraminetasToolStripMenuItem";
-            this.herraminetasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.herraminetasToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
             this.herraminetasToolStripMenuItem.Text = "Herraminetas";
             // 
             // consultasInteligentesToolStripMenuItem
@@ -121,14 +127,14 @@ namespace Vista
             // cerrarSesionToolStripMenuItem
             // 
             this.cerrarSesionToolStripMenuItem.Name = "cerrarSesionToolStripMenuItem";
-            this.cerrarSesionToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cerrarSesionToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
             this.cerrarSesionToolStripMenuItem.Text = "Cerrar Sesion";
             this.cerrarSesionToolStripMenuItem.Click += new System.EventHandler(this.cerrarSesionToolStripMenuItem_Click);
             // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
@@ -153,13 +159,6 @@ namespace Vista
             this.disponibilidadToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
             this.disponibilidadToolStripMenuItem.Text = "Disponibilidad";
             // 
-            // txtUsuario
-            // 
-            this.txtUsuario.Location = new System.Drawing.Point(742, 4);
-            this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(58, 20);
-            this.txtUsuario.TabIndex = 32;
-            // 
             // estadoDeCuentaToolStripMenuItem
             // 
             this.estadoDeCuentaToolStripMenuItem.Name = "estadoDeCuentaToolStripMenuItem";
@@ -171,6 +170,41 @@ namespace Vista
             this.divisaToolStripMenuItem.Name = "divisaToolStripMenuItem";
             this.divisaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.divisaToolStripMenuItem.Text = "Divisa";
+            // 
+            // txtUsuario
+            // 
+            this.txtUsuario.Location = new System.Drawing.Point(742, 4);
+            this.txtUsuario.Name = "txtUsuario";
+            this.txtUsuario.Size = new System.Drawing.Size(58, 20);
+            this.txtUsuario.TabIndex = 32;
+            // 
+            // nominasDeChequesGeneradosToolStripMenuItem
+            // 
+            this.nominasDeChequesGeneradosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.deChequesGeneradosToolStripMenuItem});
+            this.nominasDeChequesGeneradosToolStripMenuItem.Name = "nominasDeChequesGeneradosToolStripMenuItem";
+            this.nominasDeChequesGeneradosToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
+            this.nominasDeChequesGeneradosToolStripMenuItem.Text = "Nominas";
+            // 
+            // deChequesGeneradosToolStripMenuItem
+            // 
+            this.deChequesGeneradosToolStripMenuItem.Name = "deChequesGeneradosToolStripMenuItem";
+            this.deChequesGeneradosToolStripMenuItem.Size = new System.Drawing.Size(193, 22);
+            this.deChequesGeneradosToolStripMenuItem.Text = "De cheques generados";
+            // 
+            // movimientosRealizadosToolStripMenuItem
+            // 
+            this.movimientosRealizadosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.chequesEmitidosToolStripMenuItem});
+            this.movimientosRealizadosToolStripMenuItem.Name = "movimientosRealizadosToolStripMenuItem";
+            this.movimientosRealizadosToolStripMenuItem.Size = new System.Drawing.Size(147, 20);
+            this.movimientosRealizadosToolStripMenuItem.Text = "Movimientos Realizados";
+            // 
+            // chequesEmitidosToolStripMenuItem
+            // 
+            this.chequesEmitidosToolStripMenuItem.Name = "chequesEmitidosToolStripMenuItem";
+            this.chequesEmitidosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.chequesEmitidosToolStripMenuItem.Text = "Cheques Emitidos";
             // 
             // frmBancos
             // 
@@ -209,5 +243,9 @@ namespace Vista
         private System.Windows.Forms.TextBox txtUsuario;
         private System.Windows.Forms.ToolStripMenuItem estadoDeCuentaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem divisaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem nominasDeChequesGeneradosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem deChequesGeneradosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem movimientosRealizadosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem chequesEmitidosToolStripMenuItem;
     }
 }

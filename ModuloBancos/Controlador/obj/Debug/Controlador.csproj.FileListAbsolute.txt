@@ -7,3 +7,12 @@ D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlado
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\bin\Debug\Modelo.dll
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\bin\Debug\Modelo.pdb
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\bin\Debug\Controlador.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\bin\Debug\Modelo.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\obj\Debug\Controlador.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Controlador\obj\Debug\Controlador.pdb

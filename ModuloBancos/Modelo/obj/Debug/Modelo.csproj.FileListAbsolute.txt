@@ -4,3 +4,9 @@ D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Modelo\obj
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Modelo\obj\Debug\Modelo.dll
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Modelo\bin\Debug\Modelo.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Modelo\obj\Debug\Modelo.dll
+C:\Users\Angel\Desktop\BancoGrupo\ModuloBancos\ModuloBancos\Modelo\obj\Debug\Modelo.pdb
