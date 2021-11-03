@@ -1,0 +1,9 @@
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\bin\Debug\Controlador.dll
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\bin\Debug\Controlador.pdb
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\obj\Debug\Controlador.dll
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\obj\Debug\Controlador.pdb
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\bin\Debug\Modelo.dll
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\bin\Debug\Modelo.pdb
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Bancos\ModuloBancos\Controlador\obj\Debug\Controlador.csproj.CopyComplete
